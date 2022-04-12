@@ -38,3 +38,4 @@ for i = 1:size(M)
     %fprintf('correct target value: %s %s \n',correct_target(1), correct_target(2));
     %fprintf('difference: %s %s \n', (new_target(1)-correct_target(1)), (new_target(2)-correct_target(2)));
 end
+
